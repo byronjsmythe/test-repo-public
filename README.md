@@ -1,4 +1,12 @@
 # test-repo-public
 Yet more practice!
 
-Trying to get the hang of hit/github...
+This line added from Jupyter Notebook:
+
+**BOLD**
+
+*Italics*
+
+* Bulletpoint 1
+* Bulletpoint 2
+* Bulletpoint 3
